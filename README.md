@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![默认图片](img/Natsume.PNG)
+![默认图片](img/Natsume.PNG"https://pic2.zhimg.com/v2-a2ce77d392d958ef33888085a8c9184d_xld.png")
 <img src="img/Natsume.PNG" alt="Image 1" onmouseover="this.src='https://pic2.zhimg.com/v2-a2ce77d392d958ef33888085a8c9184d_xld.png'" onmouseout="this.src='img/Natsume.PNG'">
